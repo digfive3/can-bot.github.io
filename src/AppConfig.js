@@ -32,7 +32,7 @@ const AppConfig = {
      * If your repo has any other name (a project page), it would be:
      * https://<username>.github.io/<repo-name>
      */
-    GITHUB_PAGES_URL: "https://digfive3.github.io/can-bot",
+    GITHUB_PAGES_URL: "https://digfive3/can-bot.github.io",
 
     /**
      * The URL used when running the app locally during development.
